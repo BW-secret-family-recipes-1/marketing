@@ -46,3 +46,28 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+.heading {
+	background-image: url("CuttingBoard.jpg") ;
+	background-color: AF703B;
+}
+
+h1 {
+	font-family: 'Charmonman', cursive;
+	font-size: 3.5rem;
+	margin: 5%;
+	background-image: url("CuttingBoard.jpg") ;
+	background-color: AF703B;
+}
+
+nav a {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 1.2rem;
+	align-content: center;
+	margin: 1%;
+}
+
+.Recipes {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 1.2rem;
+}
