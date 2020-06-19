@@ -62,8 +62,6 @@ h1 {
 }
 
 nav {
-	margin-left: 5%;
-	margin-right: 1%;
 	justify-content: space-evenly;
 	display: flex;	
 }
