@@ -69,8 +69,6 @@ nav {
 	display: flex;	
 }
 
-
-
 nav a {
 	font-family: 'Alegreya Sans', sans-serif;
 	font-size: 1.4rem;
@@ -114,6 +112,14 @@ h2 {
 .ApplePie img {
 	width: 20rem;
 	height: 15rem;
+}
+
+p {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 1rem;
+	color:white;
+	margin-top: 2%;
+	text-align: center;
 }
 
 
