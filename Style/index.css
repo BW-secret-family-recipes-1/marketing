@@ -58,7 +58,6 @@ h1 {
 	font-size: 4rem;
 	margin-top: 3%;
 	margin-bottom: 2%;
-	border: solid red;
 	color: white;
 	text-align: center;
 }
@@ -73,7 +72,6 @@ nav {
 
 
 nav a {
-	border: solid blue;
 	font-family: 'Alegreya Sans', sans-serif;
 	font-size: 1.4rem;
 	color:white;
@@ -91,7 +89,6 @@ h2 {
 }
 
 .Recipes, .Recipes2 {
-	border: solid purple;
 	font-family: 'Alegreya Sans', sans-serif;
 	font-size: 1.2rem;
 	color: white;
