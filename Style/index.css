@@ -63,14 +63,22 @@ h1 {
 	text-align: center;
 }
 
+nav {
+	margin-left: 5%;
+	margin-right: 1%;
+	justify-content: space-evenly;
+	display: flex;	
+}
+
+
+
 nav a {
 	border: solid blue;
 	font-family: 'Alegreya Sans', sans-serif;
 	font-size: 1.4rem;
-	text-align: center;
-	margin: 1%;
 	color:white;
-	align-content: center;
+	text-decoration: none;
+	
 }
 
 h2 {
@@ -79,24 +87,22 @@ h2 {
 	color: white;
 	margin-top: 5%;
 	margin-bottom: 2%;
+	text-align: center;
 }
 
-.Recipes {
+.Recipes, .Recipes2 {
 	border: solid purple;
 	font-family: 'Alegreya Sans', sans-serif;
 	font-size: 1.2rem;
 	color: white;
-	margin-right: 5%;
+	justify-content: space-evenly;
 	display: flex;
-
-
+	margin-bottom: 5%;
 }
 
 .Burger img {
 	width: 20rem;
 	height: 15rem;
-	border: solid yellow;
-	margin-right: 5%;
 }
 
 .Chicken img {
@@ -113,3 +119,5 @@ h2 {
 	width: 20rem;
 	height: 15rem;
 }
+
+
