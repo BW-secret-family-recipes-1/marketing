@@ -102,6 +102,24 @@ h2, p, a {
 	margin-top: 10%;	
 }
 
+@media(max-width: 500px) {
+	.Alix img, .Melissa img, .Allison img, .Alex img, .Ashley img {
+		height: 35%;
+		width: 35%;
+		margin-left: 33%;
+		margin-top: 10%;	
+	}
+}
+
+@media(max-width: 800px) {
+	.Alix img, .Melissa img, .Allison img, .Alex img, .Ashley img {
+		height: 35%;
+		width: 35%;
+		margin-left: 33%;
+		margin-top: 10%;	
+	}
+}
+
 footer nav a {
 	margin-top: 10%;
 }
