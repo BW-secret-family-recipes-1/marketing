@@ -98,25 +98,7 @@ h2 {
 	margin-bottom: 5%;
 }
 
-.Burger img {
-	width: 20rem;
-	height: 15rem;
-	margin-top: 3%;
-}
-
-.Chicken img {
-	width: 20rem;
-	height: 15rem;
-	margin-top: 3%;
-}
-
-.Gumbo img {
-	width: 20rem;
-	height: 15rem;
-	margin-top: 3%;
-}
-
-.ApplePie img {
+.Burger img, .Chicken img, .Gumbo img, .ApplePie img {
 	width: 20rem;
 	height: 15rem;
 	margin-top: 3%;
