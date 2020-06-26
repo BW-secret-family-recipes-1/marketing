@@ -1,6 +1,8 @@
 # marketing
 repo for marketing/landing page
 
+marketing repo:  https://modest-lumiere-17a08c.netlify.app
+
 
 This is the template for the Product Vision Document that teams complete after their initial icebreaker. The PVD is crucial to the planning phase and is mandatory for all groups to complete and submit to their Project Lead before starting their project.
 ☝️ Proposal
